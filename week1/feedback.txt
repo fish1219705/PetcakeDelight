@@ -1,0 +1,17 @@
+FEEDBACK
+
+For the Requirements Document, if Admin is the store manager, then perhaps the role is Manager.
+
+
+
+Clarifications for the Requirements Document next term (but no need to resubmit now)
+
+-make payment Nice to Have.
+
+-Does it need a blog, or just an About page
+
+
+
+
+
+Thank you, looking forward to seeing this project come to life!
