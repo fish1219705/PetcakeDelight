@@ -1,16 +1,16 @@
-# === 忽略 WordPress 核心檔案 ===
+# 忽略 WordPress 核心（根據實際位置）
 LocalWP/app/public/wp-admin/
 LocalWP/app/public/wp-includes/
 
-# === 忽略所有 plugins，除了你自己開發的 ===
+# 忽略所有 plugins，除了你自己開發的（記得改資料夾名稱）
 LocalWP/app/public/wp-content/plugins/*
 !LocalWP/app/public/wp-content/plugins/your-plugin-folder-name/
 
-# === 忽略所有 themes，除了你自己的主題 ===
+# 忽略所有 themes，除了你自己的主題
 LocalWP/app/public/wp-content/themes/*
 !LocalWP/app/public/wp-content/themes/petcake-child/
 
-# === 忽略 LocalWP 產生的備份與暫存資料夾 ===
+# 忽略備份與快取資料
 LocalWP/app/public/wp-content/upgrade/
 LocalWP/app/public/wp-content/backup-*/
 LocalWP/app/public/wp-content/backups/
@@ -18,21 +18,18 @@ LocalWP/app/public/wp-content/uploads/backups/
 LocalWP/app/public/wp-content/cache/
 LocalWP/app/public/wp-content/wflogs/
 
-# === 忽略媒體檔案（選擇性） ===
-# 若你不想把圖片上傳到 GitHub，可取消註解下面這行
-# LocalWP/app/public/wp-content/uploads/
-
-# === 忽略大型檔案與資料庫備份 ===
-*.sql
+# 忽略大型壓縮與備份檔
 *.zip
 *.tar
 *.gz
+*.sql
+*.tmp
 
-# === 忽略第三方函式庫與套件資料夾 ===
+# 忽略 node_modules 與 vendor
 node_modules/
 vendor/
 
-# === 忽略常見 IDE 與系統檔案 ===
+# 忽略 IDE 和系統檔案
 .vscode/
 .idea/
 .DS_Store
@@ -41,6 +38,7 @@ Thumbs.db
 *.swp
 *.swo
 
-# === 忽略 LocalWP 的設定與日誌 ===
-LocalWP/conf/
+# LocalWP 專用資料夾
 LocalWP/logs/
+LocalWP/sql/
+
