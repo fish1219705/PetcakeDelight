@@ -80,10 +80,17 @@ $table_prefix = 'wp_';
  *
  * @link https://wordpress.org/support/article/debugging-in-wordpress/
  */
-if ( ! defined( 'WP_DEBUG' ) ) {
-	define( 'WP_DEBUG', false );
-}
+// if ( ! defined( 'WP_DEBUG' ) ) {
+// 	define( 'WP_DEBUG', false );
+// }
 define( 'WP_ENVIRONMENT_TYPE', 'local' );
+
+// For debugging, put these lines just before the line that says /* That's all, stop editing! Happy publishing. */
+define( 'WP_DEBUG', true );
+define( 'WP_DEBUG_LOG', true );
+define( 'WP_DEBUG_DISPLAY', false );
+@ini_set( 'display_errors', 0 );
+
 /* That's all, stop editing! Happy publishing. */
 /** Absolute path to the WordPress directory. */
 if ( ! defined( 'ABSPATH' ) ) {
