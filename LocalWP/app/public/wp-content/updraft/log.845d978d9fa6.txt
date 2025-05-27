@@ -1,0 +1,1026 @@
+0000.001 (0) Opened log file at time: Mon, 26 May 2025 18:00:03 +0000 on http://petcakedelight.local
+0000.004 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.25.5 WP: 6.8.1 PHP: 8.2.27 (cgi-fcgi, Windows NT DELL 10.0 build 26100 (Windows 11) AMD64) MySQL: 8.0.35 (max packet size=16777216) WPLANG: en_US Server: nginx/1.26.1 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 19.8M | 22M) multisite: N openssl: OpenSSL 3.0.15 3 Sep 2024 mcrypt: N LANG:  WP Proxy: disabled ZipArchive::addFile: Y
+0000.007 (0) Free space on disk containing Updraft's temporary directory: 304311.6 MB
+0000.014 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.021 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.034 (0) Set semaphore last lock (fd) time to 2025-05-26 18:00:03
+0000.038 (0) Semaphore lock (fd) complete
+0000.051 (0) Backup run: resumption=0, nonce=845d978d9fa6, file_nonce=845d978d9fa6 begun at=1748282403 (0s ago), job type=backup
+0000.058 (0) Scheduling a resumption (1) after 300 seconds (1748282703) in case this run gets aborted
+0000.067 (0) Checking if we have a zip executable available
+0000.074 (0) Creation of backups of directories: beginning
+0000.086 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0007.647 (0) Total entities for the zip file: 3474 directories, 21036 files (0 skipped as non-modified), 289.2 MB
+0007.663 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0007.909 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 100 files added (on-disk size: 636.8 KB)
+0007.966 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 200 files added (on-disk size: 636.8 KB)
+0008.012 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 300 files added (on-disk size: 636.8 KB)
+0008.055 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 400 files added (on-disk size: 636.8 KB)
+0008.091 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 500 files added (on-disk size: 636.8 KB)
+0008.120 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 600 files added (on-disk size: 636.8 KB)
+0008.164 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 700 files added (on-disk size: 636.8 KB)
+0008.207 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 800 files added (on-disk size: 636.8 KB)
+0008.248 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 900 files added (on-disk size: 636.8 KB)
+0008.281 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 1000 files added (on-disk size: 636.8 KB)
+0008.284 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (23.3 MB, 21036 files batched, 1001 (1002) added so far); re-opening (prior size: 636.8 KB)
+0012.313 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 1100 files added (on-disk size: 11382 KB)
+0012.354 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 1200 files added (on-disk size: 11382 KB)
+0012.390 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 1300 files added (on-disk size: 11382 KB)
+0012.433 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 1400 files added (on-disk size: 11382 KB)
+0012.483 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 1500 files added (on-disk size: 11382 KB)
+0012.531 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 1600 files added (on-disk size: 11382 KB)
+0012.584 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 1700 files added (on-disk size: 11382 KB)
+0012.635 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 1800 files added (on-disk size: 11382 KB)
+0012.666 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 1900 files added (on-disk size: 11382 KB)
+0012.709 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 2000 files added (on-disk size: 11382 KB)
+0012.714 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (6.9 MB, 21036 files batched, 1001 (2003) added so far); re-opening (prior size: 11382 KB)
+0013.614 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 2100 files added (on-disk size: 13573.9 KB)
+0013.653 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 2200 files added (on-disk size: 13573.9 KB)
+0013.706 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 2300 files added (on-disk size: 13573.9 KB)
+0013.741 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 2400 files added (on-disk size: 13573.9 KB)
+0013.766 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 2500 files added (on-disk size: 13573.9 KB)
+0013.796 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 2600 files added (on-disk size: 13573.9 KB)
+0013.839 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 2700 files added (on-disk size: 13573.9 KB)
+0013.879 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 2800 files added (on-disk size: 13573.9 KB)
+0013.918 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 2900 files added (on-disk size: 13573.9 KB)
+0013.950 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (27 MB, 21036 files batched, 992 (2995) added so far); re-opening (prior size: 13573.9 KB)
+0017.662 (0) A useful amount of data was added after this amount of zip processing: 5.1 s (normalised: 4.8 s, rate: 5377.9 KB/s)
+0017.667 (0) Performance is good - will increase the amount of data we attempt to batch (time=5.1372940540314, normalised_time=4.7602025676681, max_time=17.663884878159, data points known=1, old_max_bytes=26214400, new_max_bytes=58364929)
+0017.746 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 3000 files added (on-disk size: 22083.8 KB)
+0017.793 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 3100 files added (on-disk size: 22083.8 KB)
+0017.842 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 3200 files added (on-disk size: 22083.8 KB)
+0017.895 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 3300 files added (on-disk size: 22083.8 KB)
+0017.943 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 3400 files added (on-disk size: 22083.8 KB)
+0017.980 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 3500 files added (on-disk size: 22083.8 KB)
+0018.020 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 3600 files added (on-disk size: 22083.8 KB)
+0018.058 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 3700 files added (on-disk size: 22083.8 KB)
+0018.104 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 3800 files added (on-disk size: 22083.8 KB)
+0018.152 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 3900 files added (on-disk size: 22083.8 KB)
+0018.204 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (36.8 MB, 21036 files batched, 1001 (3996) added so far); re-opening (prior size: 22083.8 KB)
+0022.616 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 4000 files added (on-disk size: 32161.6 KB)
+0022.673 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 4100 files added (on-disk size: 32161.6 KB)
+0022.723 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 4200 files added (on-disk size: 32161.6 KB)
+0022.777 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 4300 files added (on-disk size: 32161.6 KB)
+0022.824 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 4400 files added (on-disk size: 32161.6 KB)
+0022.852 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 4500 files added (on-disk size: 32161.6 KB)
+0022.878 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 4600 files added (on-disk size: 32161.6 KB)
+0022.907 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 4700 files added (on-disk size: 32161.6 KB)
+0022.935 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 4800 files added (on-disk size: 32161.6 KB)
+0022.964 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 4900 files added (on-disk size: 32161.6 KB)
+0022.992 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (4.2 MB, 21036 files batched, 1001 (4997) added so far); re-opening (prior size: 32161.6 KB)
+0023.589 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 5000 files added (on-disk size: 33751.2 KB)
+0023.615 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 5100 files added (on-disk size: 33751.2 KB)
+0023.643 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 5200 files added (on-disk size: 33751.2 KB)
+0023.677 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 5300 files added (on-disk size: 33751.2 KB)
+0023.708 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 5400 files added (on-disk size: 33751.2 KB)
+0023.735 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 5500 files added (on-disk size: 33751.2 KB)
+0023.761 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 5600 files added (on-disk size: 33751.2 KB)
+0023.789 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 5700 files added (on-disk size: 33751.2 KB)
+0023.816 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 5800 files added (on-disk size: 33751.2 KB)
+0023.844 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 5900 files added (on-disk size: 33751.2 KB)
+0023.871 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (19.8 MB, 21036 files batched, 1001 (5998) added so far); re-opening (prior size: 33751.2 KB)
+0025.432 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 6000 files added (on-disk size: 45545.1 KB)
+0025.458 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 6100 files added (on-disk size: 45545.1 KB)
+0025.489 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 6200 files added (on-disk size: 45545.1 KB)
+0025.522 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 6300 files added (on-disk size: 45545.1 KB)
+0025.553 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 6400 files added (on-disk size: 45545.1 KB)
+0025.581 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 6500 files added (on-disk size: 45545.1 KB)
+0025.608 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 6600 files added (on-disk size: 45545.1 KB)
+0025.635 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 6700 files added (on-disk size: 45545.1 KB)
+0025.661 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 6800 files added (on-disk size: 45545.1 KB)
+0025.689 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 6900 files added (on-disk size: 45545.1 KB)
+0025.727 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (19.3 MB, 21036 files batched, 1001 (6999) added so far); re-opening (prior size: 45545.1 KB)
+0029.721 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 7000 files added (on-disk size: 50790.5 KB)
+0029.766 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 7100 files added (on-disk size: 50790.5 KB)
+0029.816 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 7200 files added (on-disk size: 50790.5 KB)
+0029.868 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 7300 files added (on-disk size: 50790.5 KB)
+0029.915 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 7400 files added (on-disk size: 50790.5 KB)
+0029.961 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 7500 files added (on-disk size: 50790.5 KB)
+0030.003 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 7600 files added (on-disk size: 50790.5 KB)
+0030.045 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 7700 files added (on-disk size: 50790.5 KB)
+0030.092 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 7800 files added (on-disk size: 50790.5 KB)
+0030.131 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 7900 files added (on-disk size: 50790.5 KB)
+0030.171 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (34.9 MB, 21036 files batched, 1001 (8000) added so far); re-opening (prior size: 50790.5 KB)
+0036.461 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 8000 files added (on-disk size: 63536.3 KB)
+0036.645 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 8100 files added (on-disk size: 63536.3 KB)
+0036.696 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 8200 files added (on-disk size: 63536.3 KB)
+0036.743 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 8300 files added (on-disk size: 63536.3 KB)
+0036.781 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 8400 files added (on-disk size: 63536.3 KB)
+0036.817 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 8500 files added (on-disk size: 63536.3 KB)
+0036.854 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 8600 files added (on-disk size: 63536.3 KB)
+0036.890 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 8700 files added (on-disk size: 63536.3 KB)
+0036.926 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 8800 files added (on-disk size: 63536.3 KB)
+0036.968 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 8900 files added (on-disk size: 63536.3 KB)
+0037.016 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 9000 files added (on-disk size: 63536.3 KB)
+0037.022 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (10.4 MB, 21036 files batched, 1001 (9001) added so far); re-opening (prior size: 63536.3 KB)
+0038.618 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 9100 files added (on-disk size: 66996.1 KB)
+0038.669 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 9200 files added (on-disk size: 66996.1 KB)
+0038.706 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 9300 files added (on-disk size: 66996.1 KB)
+0038.755 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 9400 files added (on-disk size: 66996.1 KB)
+0038.802 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 9500 files added (on-disk size: 66996.1 KB)
+0038.854 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 9600 files added (on-disk size: 66996.1 KB)
+0038.907 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 9700 files added (on-disk size: 66996.1 KB)
+0038.965 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 9800 files added (on-disk size: 66996.1 KB)
+0039.005 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 9900 files added (on-disk size: 66996.1 KB)
+0039.042 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 10000 files added (on-disk size: 66996.1 KB)
+0039.046 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (5.2 MB, 21036 files batched, 1001 (10002) added so far); re-opening (prior size: 66996.1 KB)
+0040.352 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 10100 files added (on-disk size: 68704.2 KB)
+0040.400 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 10200 files added (on-disk size: 68704.2 KB)
+0040.448 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 10300 files added (on-disk size: 68704.2 KB)
+0040.499 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 10400 files added (on-disk size: 68704.2 KB)
+0040.548 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 10500 files added (on-disk size: 68704.2 KB)
+0040.595 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 10600 files added (on-disk size: 68704.2 KB)
+0040.665 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 10700 files added (on-disk size: 68704.2 KB)
+0040.728 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 10800 files added (on-disk size: 68704.2 KB)
+0040.790 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 10900 files added (on-disk size: 68704.2 KB)
+0040.840 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 11000 files added (on-disk size: 68704.2 KB)
+0040.847 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (16.9 MB, 21036 files batched, 1001 (11003) added so far); re-opening (prior size: 68704.2 KB)
+0043.114 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 11100 files added (on-disk size: 77361.9 KB)
+0043.160 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 11200 files added (on-disk size: 77361.9 KB)
+0043.215 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 11300 files added (on-disk size: 77361.9 KB)
+0043.264 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 11400 files added (on-disk size: 77361.9 KB)
+0043.313 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 11500 files added (on-disk size: 77361.9 KB)
+0043.370 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 11600 files added (on-disk size: 77361.9 KB)
+0043.417 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 11700 files added (on-disk size: 77361.9 KB)
+0043.473 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 11800 files added (on-disk size: 77361.9 KB)
+0043.526 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 11900 files added (on-disk size: 77361.9 KB)
+0043.578 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 12000 files added (on-disk size: 77361.9 KB)
+0043.585 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (7.9 MB, 21036 files batched, 1001 (12004) added so far); re-opening (prior size: 77361.9 KB)
+0045.179 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 12100 files added (on-disk size: 79567.9 KB)
+0045.241 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 12200 files added (on-disk size: 79567.9 KB)
+0045.296 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 12300 files added (on-disk size: 79567.9 KB)
+0045.353 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 12400 files added (on-disk size: 79567.9 KB)
+0045.406 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 12500 files added (on-disk size: 79567.9 KB)
+0045.467 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 12600 files added (on-disk size: 79567.9 KB)
+0045.523 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 12700 files added (on-disk size: 79567.9 KB)
+0045.569 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 12800 files added (on-disk size: 79567.9 KB)
+0045.630 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 12900 files added (on-disk size: 79567.9 KB)
+0045.688 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 13000 files added (on-disk size: 79567.9 KB)
+0045.694 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (5.7 MB, 21036 files batched, 1001 (13005) added so far); re-opening (prior size: 79567.9 KB)
+0047.213 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 13100 files added (on-disk size: 81456.5 KB)
+0047.286 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 13200 files added (on-disk size: 81456.5 KB)
+0047.361 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 13300 files added (on-disk size: 81456.5 KB)
+0047.437 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 13400 files added (on-disk size: 81456.5 KB)
+0047.505 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 13500 files added (on-disk size: 81456.5 KB)
+0047.572 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 13600 files added (on-disk size: 81456.5 KB)
+0047.631 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 13700 files added (on-disk size: 81456.5 KB)
+0047.677 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 13800 files added (on-disk size: 81456.5 KB)
+0047.728 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 13900 files added (on-disk size: 81456.5 KB)
+0047.788 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 14000 files added (on-disk size: 81456.5 KB)
+0047.796 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (17.1 MB, 21036 files batched, 1001 (14006) added so far); re-opening (prior size: 81456.5 KB)
+0059.128 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 14100 files added (on-disk size: 88245.7 KB)
+0059.178 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 14200 files added (on-disk size: 88245.7 KB)
+0059.226 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 14300 files added (on-disk size: 88245.7 KB)
+0059.283 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 14400 files added (on-disk size: 88245.7 KB)
+0059.348 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 14500 files added (on-disk size: 88245.7 KB)
+0059.407 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 14600 files added (on-disk size: 88245.7 KB)
+0059.461 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 14700 files added (on-disk size: 88245.7 KB)
+0059.514 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 14800 files added (on-disk size: 88245.7 KB)
+0059.567 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 14900 files added (on-disk size: 88245.7 KB)
+0059.639 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 15000 files added (on-disk size: 88245.7 KB)
+0059.647 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (11.8 MB, 21036 files batched, 1001 (15007) added so far); re-opening (prior size: 88245.7 KB)
+0062.896 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 15100 files added (on-disk size: 92248.2 KB)
+0062.961 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 15200 files added (on-disk size: 92248.2 KB)
+0063.010 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 15300 files added (on-disk size: 92248.2 KB)
+0063.063 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 15400 files added (on-disk size: 92248.2 KB)
+0063.113 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 15500 files added (on-disk size: 92248.2 KB)
+0063.174 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 15600 files added (on-disk size: 92248.2 KB)
+0063.233 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 15700 files added (on-disk size: 92248.2 KB)
+0063.285 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 15800 files added (on-disk size: 92248.2 KB)
+0063.334 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 15900 files added (on-disk size: 92248.2 KB)
+0063.381 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 16000 files added (on-disk size: 92248.2 KB)
+0063.388 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (7.1 MB, 21036 files batched, 1001 (16008) added so far); re-opening (prior size: 92248.2 KB)
+0064.989 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 16100 files added (on-disk size: 95069.2 KB)
+0065.070 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 16200 files added (on-disk size: 95069.2 KB)
+0065.144 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 16300 files added (on-disk size: 95069.2 KB)
+0065.213 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 16400 files added (on-disk size: 95069.2 KB)
+0065.292 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 16500 files added (on-disk size: 95069.2 KB)
+0065.371 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 16600 files added (on-disk size: 95069.2 KB)
+0065.435 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 16700 files added (on-disk size: 95069.2 KB)
+0065.504 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 16800 files added (on-disk size: 95069.2 KB)
+0065.568 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 16900 files added (on-disk size: 95069.2 KB)
+0065.636 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 17000 files added (on-disk size: 95069.2 KB)
+0065.648 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (11.5 MB, 21036 files batched, 1001 (17009) added so far); re-opening (prior size: 95069.2 KB)
+0067.815 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 17100 files added (on-disk size: 100108.9 KB)
+0067.878 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 17200 files added (on-disk size: 100108.9 KB)
+0067.930 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 17300 files added (on-disk size: 100108.9 KB)
+0067.986 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 17400 files added (on-disk size: 100108.9 KB)
+0068.044 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 17500 files added (on-disk size: 100108.9 KB)
+0068.102 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 17600 files added (on-disk size: 100108.9 KB)
+0068.156 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 17700 files added (on-disk size: 100108.9 KB)
+0068.223 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 17800 files added (on-disk size: 100108.9 KB)
+0068.302 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 17900 files added (on-disk size: 100108.9 KB)
+0068.378 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 18000 files added (on-disk size: 100108.9 KB)
+0068.390 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (13.4 MB, 21036 files batched, 1001 (18010) added so far); re-opening (prior size: 100108.9 KB)
+0072.604 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 18100 files added (on-disk size: 105115.3 KB)
+0072.700 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 18200 files added (on-disk size: 105115.3 KB)
+0072.788 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 18300 files added (on-disk size: 105115.3 KB)
+0072.863 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 18400 files added (on-disk size: 105115.3 KB)
+0072.928 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 18500 files added (on-disk size: 105115.3 KB)
+0073.008 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 18600 files added (on-disk size: 105115.3 KB)
+0073.083 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 18700 files added (on-disk size: 105115.3 KB)
+0073.157 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 18800 files added (on-disk size: 105115.3 KB)
+0073.237 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 18900 files added (on-disk size: 105115.3 KB)
+0073.306 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 19000 files added (on-disk size: 105115.3 KB)
+0073.316 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (3.2 MB, 21036 files batched, 1001 (19011) added so far); re-opening (prior size: 105115.3 KB)
+0074.939 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 19100 files added (on-disk size: 106160.1 KB)
+0075.007 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 19200 files added (on-disk size: 106160.1 KB)
+0075.074 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 19300 files added (on-disk size: 106160.1 KB)
+0075.148 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 19400 files added (on-disk size: 106160.1 KB)
+0075.217 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 19500 files added (on-disk size: 106160.1 KB)
+0075.282 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 19600 files added (on-disk size: 106160.1 KB)
+0075.357 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 19700 files added (on-disk size: 106160.1 KB)
+0075.434 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 19800 files added (on-disk size: 106160.1 KB)
+0075.512 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 19900 files added (on-disk size: 106160.1 KB)
+0075.581 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 20000 files added (on-disk size: 106160.1 KB)
+0075.593 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (3 MB, 21036 files batched, 1001 (20012) added so far); re-opening (prior size: 106160.1 KB)
+0077.318 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 20100 files added (on-disk size: 107158.9 KB)
+0077.414 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 20200 files added (on-disk size: 107158.9 KB)
+0077.521 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 20300 files added (on-disk size: 107158.9 KB)
+0077.640 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 20400 files added (on-disk size: 107158.9 KB)
+0077.754 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 20500 files added (on-disk size: 107158.9 KB)
+0077.865 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 20600 files added (on-disk size: 107158.9 KB)
+0077.960 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 20700 files added (on-disk size: 107158.9 KB)
+0078.053 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 20800 files added (on-disk size: 107158.9 KB)
+0078.146 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 20900 files added (on-disk size: 107158.9 KB)
+0078.241 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.tmp: 21000 files added (on-disk size: 107158.9 KB)
+0078.258 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (3.9 MB, 21036 files batched, 1001 (21013) added so far); re-opening (prior size: 107158.9 KB)
+0132.756 (0) Creating zip file manifest (backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.list-temp.tmp)
+0132.861 (0) Successfully created zip file manifest (size: 1916650)
+0134.535 (0) Created plugins zip (0) - 108517.9 KB in 134.4 s (807.2 KB/s) (sha1: 72ce4a2ee007452975a6c772bc96a70763b60908, sha256: 2ab0b3d0c399d03bc237cd32614e27bef9198fedd727f12ba685460a02fd87d7)
+0134.574 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0134.578 (0) No remote despatch: user chose no remote backup service
+0134.581 (0) Recording as successfully uploaded: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip
+0134.588 (0) Deleting zip manifest (backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip.list.tmp)
+0134.598 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0134.606 (0) Number of backup sets in history: 1; groups (db): 1
+0134.609 (0) Examining (for databases) backup set with group_id=0, nonce=55a933b29d81, datestamp=1747848903 (May 21 2025 17:35:03)
+0134.612 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0134.616 (0) Number of backup sets in history: 1; groups (files): 1
+0134.619 (0) Examining (for files) backup set with nonce=55a933b29d81, datestamp=1747848903 (May 21 2025 17:35:03)
+0134.619 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0134.621 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0134.637 (0) Beginning creation of dump of themes (split every: 400 MB)
+0134.842 (0) Total entities for the zip file: 48 directories, 392 files (0 skipped as non-modified), 13.6 MB
+0134.939 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0135.004 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0135.081 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0143.814 (0) Creating zip file manifest (backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-themes.zip.list-temp.tmp)
+0143.821 (0) Successfully created zip file manifest (size: 27909)
+0144.010 (0) Created themes zip (0) - 12882.6 KB in 9.4 s (1375.7 KB/s) (sha1: 5e439eae452784ec039aecb8584bcab40384cea0, sha256: 1f8219c81793ed07003047e2322626d71bb9968dabd961d38faff03a805b98db)
+0144.020 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0144.023 (0) No remote despatch: user chose no remote backup service
+0144.026 (0) Recording as successfully uploaded: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-themes.zip
+0144.031 (0) Deleting zip manifest (backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-themes.zip.list.tmp)
+0144.036 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0144.040 (0) Number of backup sets in history: 1; groups (db): 1
+0144.042 (0) Examining (for databases) backup set with group_id=0, nonce=55a933b29d81, datestamp=1747848903 (May 21 2025 17:35:03)
+0144.046 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0144.048 (0) Number of backup sets in history: 1; groups (files): 1
+0144.050 (0) Examining (for files) backup set with nonce=55a933b29d81, datestamp=1747848903 (May 21 2025 17:35:03)
+0144.050 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0144.053 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0144.067 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0144.070 (0) Looking for candidates to backup in: C:\Users\hanpe\Desktop\HUMBER\2025Summer\Capstone\Capstone-PetcakeDelight\LocalWP\app\public/wp-content/uploads
+0144.073 (0) finding files: 2025: adding to list (1)
+0144.075 (0) finding files: complianz: adding to list (2)
+0144.077 (0) finding files: elementor: adding to list (3)
+0144.080 (0) finding files: fonts: adding to list (4)
+0144.083 (0) finding files: rsssl: adding to list (5)
+0144.085 (0) finding files: wc-logs: adding to list (6)
+0144.088 (0) finding files: wcfm: adding to list (7)
+0144.091 (0) finding files: woocommerce-placeholder-100x100.png: adding to list (8)
+0144.093 (0) finding files: woocommerce-placeholder-1024x1024.png: adding to list (9)
+0144.096 (0) finding files: woocommerce-placeholder-150x150.png: adding to list (10)
+0144.098 (0) finding files: woocommerce-placeholder-300x300.png: adding to list (11)
+0144.101 (0) finding files: woocommerce-placeholder-600x600.png: adding to list (12)
+0144.104 (0) finding files: woocommerce-placeholder-768x768.png: adding to list (13)
+0144.106 (0) finding files: woocommerce-placeholder.png: adding to list (14)
+0144.109 (0) finding files: woocommerce_uploads: adding to list (15)
+0144.111 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0144.225 (0) Total entities for the zip file: 21 directories, 253 files (0 skipped as non-modified), 33.2 MB
+0144.301 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0144.374 (0) Zip: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0147.054 (0) Creating zip file manifest (backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-uploads.zip.list-temp.tmp)
+0147.060 (0) Successfully created zip file manifest (size: 21776)
+0147.505 (0) Created uploads zip (0) - 33443.8 KB in 3.4 s (9877.9 KB/s) (sha1: 81cc1081fd929b8320f47df25b35e152fdba312e, sha256: 153cdfcbfbe4e19e3118b43f619c417f9af3c83822115b6740dd0e416dcd3818)
+0147.514 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0147.518 (0) No remote despatch: user chose no remote backup service
+0147.521 (0) Recording as successfully uploaded: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-uploads.zip
+0147.526 (0) Deleting zip manifest (backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-uploads.zip.list.tmp)
+0147.533 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0147.537 (0) Number of backup sets in history: 1; groups (db): 1
+0147.540 (0) Examining (for databases) backup set with group_id=0, nonce=55a933b29d81, datestamp=1747848903 (May 21 2025 17:35:03)
+0147.544 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0147.547 (0) Number of backup sets in history: 1; groups (files): 1
+0147.551 (0) Examining (for files) backup set with nonce=55a933b29d81, datestamp=1747848903 (May 21 2025 17:35:03)
+0147.551 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0147.554 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0147.570 (0) No backup of mu-plugins: excluded by user's options
+0147.576 (0) Beginning backup of other directories found in the content directory (index: 0)
+0147.581 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0147.585 (0) Looking for candidates to backup in: C:\Users\hanpe\Desktop\HUMBER\2025Summer\Capstone\Capstone-PetcakeDelight\LocalWP\app\public/wp-content
+0147.589 (0) finding files: debug.log: skipping: excluded by options
+0147.592 (0) finding files: index.php: adding to list (1)
+0147.595 (0) finding files: plugins: skipping: this is the plugins directory
+0147.598 (0) finding files: themes: skipping: this is the themes directory
+0147.602 (0) finding files: updraft: skipping: this is the updraft directory
+0147.606 (0) finding files: upgrade: skipping: excluded by options
+0147.609 (0) finding files: upgrade-temp-backup: adding to list (2)
+0147.612 (0) finding files: uploads: skipping: this is the uploads directory
+0147.616 (0) finding files: wflogs: adding to list (3)
+0147.631 (0) Total entities for the zip file: 3 directories, 11 files (0 skipped as non-modified), 9.8 MB
+0157.266 (0) Creating zip file manifest (backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-others.zip.list-temp.tmp)
+0157.271 (0) Successfully created zip file manifest (size: 364)
+0157.358 (0) Created others zip (0) - 4755.8 KB in 9.7 s (488.7 KB/s) (sha1: 113115c56974116a202981dd745089e8a53ee5b9, sha256: 5a6170c0d377b7af1e61a11fade1dc008a63a2b29e05c51ac5b37f336bef96b3)
+0157.369 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0157.371 (0) No remote despatch: user chose no remote backup service
+0157.375 (0) Recording as successfully uploaded: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-others.zip
+0157.381 (0) Deleting zip manifest (backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-others.zip.list.tmp)
+0157.389 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0157.392 (0) Number of backup sets in history: 1; groups (db): 1
+0157.395 (0) Examining (for databases) backup set with group_id=0, nonce=55a933b29d81, datestamp=1747848903 (May 21 2025 17:35:03)
+0157.397 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0157.400 (0) Number of backup sets in history: 1; groups (files): 1
+0157.403 (0) Examining (for files) backup set with nonce=55a933b29d81, datestamp=1747848903 (May 21 2025 17:35:03)
+0157.403 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0157.405 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0157.425 (0) Saving backup status to database (elements: 8)
+0157.432 (0) Beginning creation of database dump (WordPress DB)
+0157.437 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION
+0157.480 (0) Table wp_options: Total expected rows (via COUNT): 860
+0157.565 (0) Table wp_options: Rows added in this batch (next record: 6125): 856 (uncompressed bytes in this segment=2052583) in 0.10 seconds
+0157.585 (0) Table wp_options: finishing file(s) (2, 224.3 KB)
+0157.607 (0) Table wp_users: Total expected rows (via COUNT): 2
+0157.611 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0157.619 (0) Table wp_users: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=1584) in 0.02 seconds
+0157.633 (0) Table wp_users: finishing file(s) (2, 0.7 KB)
+0157.657 (0) Table wp_usermeta: Total expected rows (via COUNT): 84
+0157.660 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0157.669 (0) Table wp_usermeta: Rows added in this batch (next record: 110): 84 (uncompressed bytes in this segment=7101) in 0.02 seconds
+0157.693 (0) Table wp_usermeta: finishing file(s) (2, 2.6 KB)
+0157.727 (0) Table wp_actionscheduler_actions: Total expected rows (via COUNT): 163
+0157.732 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0157.747 (0) Table wp_actionscheduler_actions: Rows added in this batch (next record: 170): 163 (uncompressed bytes in this segment=57596) in 0.03 seconds
+0157.765 (0) Table wp_actionscheduler_actions: finishing file(s) (2, 6.1 KB)
+0157.782 (0) Table wp_actionscheduler_claims: Total expected rows (via COUNT): 0
+0157.789 (0) Table wp_actionscheduler_claims: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=622) in 0.01 seconds
+0157.803 (0) Table wp_actionscheduler_claims: finishing file(s) (2, 0.4 KB)
+0157.818 (0) Table wp_actionscheduler_groups: Total expected rows (via COUNT): 8
+0157.821 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0157.827 (0) Table wp_actionscheduler_groups: Rows added in this batch (next record: 8): 8 (uncompressed bytes in this segment=877) in 0.01 seconds
+0157.840 (0) Table wp_actionscheduler_groups: finishing file(s) (2, 0.5 KB)
+0157.856 (0) Table wp_actionscheduler_logs: Total expected rows (via COUNT): 481
+0157.858 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0157.871 (0) Table wp_actionscheduler_logs: Rows added in this batch (next record: 483): 481 (uncompressed bytes in this segment=42068) in 0.02 seconds
+0157.885 (0) Table wp_actionscheduler_logs: finishing file(s) (2, 5.7 KB)
+0157.904 (0) Table wp_commentmeta: Total expected rows (via COUNT): 1
+0157.907 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0157.915 (0) Table wp_commentmeta: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=765) in 0.02 seconds
+0157.930 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0157.946 (0) Table wp_comments: Total expected rows (via COUNT): 18
+0157.948 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0157.953 (0) Table wp_comments: Rows added in this batch (next record: 18): 18 (uncompressed bytes in this segment=5864) in 0.01 seconds
+0157.967 (0) Table wp_comments: finishing file(s) (2, 1.3 KB)
+0157.991 (0) Table wp_links: Total expected rows (via COUNT): 0
+0157.997 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1298) in 0.02 seconds
+0158.010 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0158.030 (0) Table wp_postmeta: Total expected rows (via COUNT): 698
+0158.032 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0158.050 (0) Table wp_postmeta: Rows added in this batch (next record: 1042): 698 (uncompressed bytes in this segment=275733) in 0.03 seconds
+0158.064 (0) Table wp_postmeta: finishing file(s) (2, 18.5 KB)
+0158.085 (0) Table wp_posts: Total expected rows (via COUNT): 268
+0158.087 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0158.109 (0) Table wp_posts: Rows added in this batch (next record: 290): 268 (uncompressed bytes in this segment=361587) in 0.03 seconds
+0158.124 (0) Table wp_posts: finishing file(s) (2, 33.5 KB)
+0158.137 (0) Table wp_term_relationships: Total expected rows (approximate): 44
+0158.144 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 44 (uncompressed bytes in this segment=1318) in 0.01 seconds
+0158.159 (0) Table wp_term_relationships: finishing file(s) (2, 0.5 KB)
+0158.179 (0) Table wp_term_taxonomy: Total expected rows (via COUNT): 56
+0158.181 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0158.188 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 57): 56 (uncompressed bytes in this segment=3411) in 0.02 seconds
+0158.203 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.9 KB)
+0158.224 (0) Table wp_termmeta: Total expected rows (via COUNT): 20
+0158.227 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0158.233 (0) Table wp_termmeta: Rows added in this batch (next record: 21): 20 (uncompressed bytes in this segment=1366) in 0.02 seconds
+0158.247 (0) Table wp_termmeta: finishing file(s) (2, 0.6 KB)
+0158.261 (0) Table wp_terms: Total expected rows (via COUNT): 56
+0158.263 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0158.270 (0) Table wp_terms: Rows added in this batch (next record: 57): 56 (uncompressed bytes in this segment=2660) in 0.01 seconds
+0158.283 (0) Table wp_terms: finishing file(s) (2, 1.1 KB)
+0158.299 (0) Table wp_wc_category_lookup: Total expected rows (approximate): 11
+0158.307 (0) Table wp_wc_category_lookup: Rows added in this batch (next record: 1000): 11 (uncompressed bytes in this segment=692) in 0.01 seconds
+0158.320 (0) Table wp_wc_category_lookup: finishing file(s) (2, 0.4 KB)
+0158.341 (0) Table wp_wc_product_meta_lookup: Total expected rows (via COUNT): 7
+0158.344 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0158.351 (0) Table wp_wc_product_meta_lookup: Rows added in this batch (next record: 290): 7 (uncompressed bytes in this segment=2157) in 0.02 seconds
+0158.364 (0) Table wp_wc_product_meta_lookup: finishing file(s) (2, 0.7 KB)
+0158.379 (0) Table wp_wc_reserved_stock: Total expected rows (approximate): 0
+0158.386 (0) Table wp_wc_reserved_stock: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=657) in 0.01 seconds
+0158.401 (0) Table wp_wc_reserved_stock: finishing file(s) (2, 0.4 KB)
+0158.417 (0) Table wp_wc_tax_rate_classes: Total expected rows (via COUNT): 2
+0158.420 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0158.426 (0) Table wp_wc_tax_rate_classes: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=808) in 0.02 seconds
+0158.439 (0) Table wp_wc_tax_rate_classes: finishing file(s) (2, 0.4 KB)
+0158.461 (0) Table wp_woocommerce_order_itemmeta: Total expected rows (via COUNT): 126
+0158.463 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0158.472 (0) Table wp_woocommerce_order_itemmeta: Rows added in this batch (next record: 4891): 126 (uncompressed bytes in this segment=9687) in 0.02 seconds
+0158.486 (0) Table wp_woocommerce_order_itemmeta: finishing file(s) (2, 1.9 KB)
+0158.505 (0) Table wp_woocommerce_payment_tokenmeta: Total expected rows (via COUNT): 0
+0158.510 (0) Table wp_woocommerce_payment_tokenmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=790) in 0.01 seconds
+0158.525 (0) Table wp_woocommerce_payment_tokenmeta: finishing file(s) (2, 0.4 KB)
+0158.543 (0) Table wp_cmplz_cookiebanners: Total expected rows (via COUNT): 1
+0158.548 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0158.555 (0) Table wp_cmplz_cookiebanners: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=8173) in 0.02 seconds
+0158.568 (0) Table wp_cmplz_cookiebanners: finishing file(s) (2, 2.1 KB)
+0158.587 (0) Table wp_cmplz_cookies: Total expected rows (via COUNT): 26
+0158.590 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0158.600 (0) Table wp_cmplz_cookies: Rows added in this batch (next record: 26): 26 (uncompressed bytes in this segment=6046) in 0.02 seconds
+0158.613 (0) Table wp_cmplz_cookies: finishing file(s) (2, 1.4 KB)
+0158.634 (0) Table wp_cmplz_dnsmpd: Total expected rows (via COUNT): 0
+0158.640 (0) Table wp_cmplz_dnsmpd: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=871) in 0.02 seconds
+0158.653 (0) Table wp_cmplz_dnsmpd: finishing file(s) (2, 0.4 KB)
+0158.675 (0) Table wp_cmplz_services: Total expected rows (via COUNT): 6
+0158.677 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0158.683 (0) Table wp_cmplz_services: Rows added in this batch (next record: 6): 6 (uncompressed bytes in this segment=1788) in 0.02 seconds
+0158.698 (0) Table wp_cmplz_services: finishing file(s) (2, 0.7 KB)
+0158.721 (0) Table wp_e_events: Total expected rows (via COUNT): 1
+0158.725 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0158.730 (0) Table wp_e_events: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=787) in 0.02 seconds
+0158.745 (0) Table wp_e_events: finishing file(s) (2, 0.5 KB)
+0158.775 (0) Table wp_nm_personalized: Total expected rows (via COUNT): 0
+0158.783 (0) Table wp_nm_personalized: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1288) in 0.02 seconds
+0158.804 (0) Table wp_nm_personalized: finishing file(s) (2, 0.5 KB)
+0158.825 (0) Table wp_wc_admin_note_actions: Total expected rows (via COUNT): 93
+0158.829 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0158.837 (0) Table wp_wc_admin_note_actions: Rows added in this batch (next record: 4554): 93 (uncompressed bytes in this segment=18446) in 0.02 seconds
+0158.855 (0) Table wp_wc_admin_note_actions: finishing file(s) (2, 3 KB)
+0158.878 (0) Table wp_wc_admin_notes: Total expected rows (via COUNT): 65
+0158.880 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0158.888 (0) Table wp_wc_admin_notes: Rows added in this batch (next record: 65): 65 (uncompressed bytes in this segment=31990) in 0.02 seconds
+0158.905 (0) Table wp_wc_admin_notes: finishing file(s) (2, 6.9 KB)
+0158.921 (0) Table wp_wc_customer_lookup: Total expected rows (via COUNT): 1
+0158.924 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0158.930 (0) Table wp_wc_customer_lookup: Rows added in this batch (next record: 2): 1 (uncompressed bytes in this segment=1458) in 0.01 seconds
+0158.943 (0) Table wp_wc_customer_lookup: finishing file(s) (2, 0.6 KB)
+0158.957 (0) Table wp_wc_download_log: Total expected rows (via COUNT): 0
+0158.963 (0) Table wp_wc_download_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=735) in 0.01 seconds
+0158.977 (0) Table wp_wc_download_log: finishing file(s) (2, 0.4 KB)
+0158.994 (0) Table wp_wc_order_addresses: Total expected rows (via COUNT): 10
+0158.997 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0159.005 (0) Table wp_wc_order_addresses: Rows added in this batch (next record: 18): 10 (uncompressed bytes in this segment=2665) in 0.02 seconds
+0159.023 (0) Table wp_wc_order_addresses: finishing file(s) (2, 0.6 KB)
+0159.040 (0) Table wp_wc_order_coupon_lookup: Total expected rows (approximate): 0
+0159.049 (0) Table wp_wc_order_coupon_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=709) in 0.01 seconds
+0159.066 (0) Table wp_wc_order_coupon_lookup: finishing file(s) (2, 0.4 KB)
+0159.085 (0) Table wp_wc_order_operational_data: Total expected rows (via COUNT): 5
+0159.088 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0159.097 (0) Table wp_wc_order_operational_data: Rows added in this batch (next record: 58): 5 (uncompressed bytes in this segment=2526) in 0.02 seconds
+0159.114 (0) Table wp_wc_order_operational_data: finishing file(s) (2, 0.9 KB)
+0159.132 (0) Table wp_wc_order_product_lookup: Total expected rows (via COUNT): 5
+0159.134 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0159.138 (0) Table wp_wc_order_product_lookup: Rows added in this batch (next record: 501): 5 (uncompressed bytes in this segment=1689) in 0.01 seconds
+0159.152 (0) Table wp_wc_order_product_lookup: finishing file(s) (2, 0.6 KB)
+0159.171 (0) Table wp_wc_order_stats: Total expected rows (via COUNT): 5
+0159.174 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0159.179 (0) Table wp_wc_order_stats: Rows added in this batch (next record: 281): 5 (uncompressed bytes in this segment=1903) in 0.01 seconds
+0159.195 (0) Table wp_wc_order_stats: finishing file(s) (2, 0.7 KB)
+0159.211 (0) Table wp_wc_order_tax_lookup: Total expected rows (approximate): 0
+0159.219 (0) Table wp_wc_order_tax_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=791) in 0.01 seconds
+0159.234 (0) Table wp_wc_order_tax_lookup: finishing file(s) (2, 0.4 KB)
+0159.251 (0) Table wp_wc_orders: Total expected rows (via COUNT): 5
+0159.254 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0159.261 (0) Table wp_wc_orders: Rows added in this batch (next record: 281): 5 (uncompressed bytes in this segment=3266) in 0.02 seconds
+0159.276 (0) Table wp_wc_orders: finishing file(s) (2, 0.9 KB)
+0159.291 (0) Table wp_wc_orders_meta: Total expected rows (via COUNT): 77
+0159.294 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0159.301 (0) Table wp_wc_orders_meta: Rows added in this batch (next record: 105): 77 (uncompressed bytes in this segment=6651) in 0.01 seconds
+0159.314 (0) Table wp_wc_orders_meta: finishing file(s) (2, 1.4 KB)
+0159.329 (0) Table wp_wc_product_attributes_lookup: Total expected rows (approximate): 0
+0159.336 (0) Table wp_wc_product_attributes_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=850) in 0.01 seconds
+0159.348 (0) Table wp_wc_product_attributes_lookup: finishing file(s) (2, 0.4 KB)
+0159.365 (0) Table wp_wc_product_download_directories: Total expected rows (via COUNT): 2
+0159.368 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0159.374 (0) Table wp_wc_product_download_directories: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=982) in 0.02 seconds
+0159.387 (0) Table wp_wc_product_download_directories: finishing file(s) (2, 0.5 KB)
+0159.403 (0) Table wp_wc_rate_limits: Total expected rows (via COUNT): 0
+0159.409 (0) Table wp_wc_rate_limits: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=688) in 0.01 seconds
+0159.421 (0) Table wp_wc_rate_limits: finishing file(s) (2, 0.4 KB)
+0159.437 (0) Table wp_wc_webhooks: Total expected rows (via COUNT): 0
+0159.440 (0) Table wp_wc_webhooks: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1215) in 0.01 seconds
+0159.453 (0) Table wp_wc_webhooks: finishing file(s) (2, 0.5 KB)
+0159.471 (0) Table wp_wcfm_daily_analysis: Total expected rows (via COUNT): 9
+0159.473 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0159.480 (0) Table wp_wcfm_daily_analysis: Rows added in this batch (next record: 29): 9 (uncompressed bytes in this segment=1258) in 0.02 seconds
+0159.493 (0) Table wp_wcfm_daily_analysis: finishing file(s) (2, 0.5 KB)
+0159.513 (0) Table wp_wcfm_detailed_analysis: Total expected rows (via COUNT): 43
+0159.516 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0159.525 (0) Table wp_wcfm_detailed_analysis: Rows added in this batch (next record: 43): 43 (uncompressed bytes in this segment=6066) in 0.02 seconds
+0159.540 (0) Table wp_wcfm_detailed_analysis: finishing file(s) (2, 1 KB)
+0159.567 (0) Table wp_wcfm_enquiries: Total expected rows (via COUNT): 1
+0159.571 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0159.579 (0) Table wp_wcfm_enquiries: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1243) in 0.03 seconds
+0159.599 (0) Table wp_wcfm_enquiries: finishing file(s) (2, 0.6 KB)
+0159.622 (0) Table wp_wcfm_enquiries_meta: Total expected rows (via COUNT): 0
+0159.629 (0) Table wp_wcfm_enquiries_meta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=621) in 0.02 seconds
+0159.647 (0) Table wp_wcfm_enquiries_meta: finishing file(s) (2, 0.4 KB)
+0159.674 (0) Table wp_wcfm_enquiries_response: Total expected rows (via COUNT): 1
+0159.677 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0159.686 (0) Table wp_wcfm_enquiries_response: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1124) in 0.03 seconds
+0159.705 (0) Table wp_wcfm_enquiries_response: finishing file(s) (2, 0.5 KB)
+0159.727 (0) Table wp_wcfm_enquiries_response_meta: Total expected rows (via COUNT): 0
+0159.735 (0) Table wp_wcfm_enquiries_response_meta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=684) in 0.02 seconds
+0159.753 (0) Table wp_wcfm_enquiries_response_meta: finishing file(s) (2, 0.4 KB)
+0159.773 (0) Table wp_wcfm_fbc_chat_rows: Total expected rows (approximate): 0
+0159.783 (0) Table wp_wcfm_fbc_chat_rows: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=822) in 0.02 seconds
+0159.801 (0) Table wp_wcfm_fbc_chat_rows: finishing file(s) (2, 0.4 KB)
+0159.820 (0) Table wp_wcfm_fbc_chat_sessions: Total expected rows (approximate): 0
+0159.827 (0) Table wp_wcfm_fbc_chat_sessions: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=914) in 0.01 seconds
+0159.842 (0) Table wp_wcfm_fbc_chat_sessions: finishing file(s) (2, 0.4 KB)
+0159.855 (0) Table wp_wcfm_fbc_chat_visitors: Total expected rows (approximate): 0
+0159.860 (0) Table wp_wcfm_fbc_chat_visitors: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=908) in 0.01 seconds
+0159.875 (0) Table wp_wcfm_fbc_chat_visitors: finishing file(s) (2, 0.4 KB)
+0159.897 (0) Table wp_wcfm_fbc_offline_messages: Total expected rows (via COUNT): 0
+0159.902 (0) Table wp_wcfm_fbc_offline_messages: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=923) in 0.02 seconds
+0159.918 (0) Table wp_wcfm_fbc_offline_messages: finishing file(s) (2, 0.4 KB)
+0159.935 (0) Table wp_wcfm_following_followers: Total expected rows (via COUNT): 0
+0159.939 (0) Table wp_wcfm_following_followers: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=954) in 0.01 seconds
+0159.953 (0) Table wp_wcfm_following_followers: finishing file(s) (2, 0.4 KB)
+0159.977 (0) Table wp_wcfm_marketplace_orders: Total expected rows (via COUNT): 0
+0159.981 (0) Table wp_wcfm_marketplace_orders: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=3060) in 0.02 seconds
+0159.996 (0) Table wp_wcfm_marketplace_orders: finishing file(s) (2, 0.7 KB)
+0160.021 (0) Table wp_wcfm_marketplace_orders_meta: Total expected rows (via COUNT): 0
+0160.027 (0) Table wp_wcfm_marketplace_orders_meta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=684) in 0.02 seconds
+0160.045 (0) Table wp_wcfm_marketplace_orders_meta: finishing file(s) (2, 0.4 KB)
+0160.063 (0) Table wp_wcfm_marketplace_product_multivendor: Total expected rows (via COUNT): 0
+0160.069 (0) Table wp_wcfm_marketplace_product_multivendor: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=896) in 0.01 seconds
+0160.083 (0) Table wp_wcfm_marketplace_product_multivendor: finishing file(s) (2, 0.4 KB)
+0160.106 (0) Table wp_wcfm_marketplace_refund_request: Total expected rows (via COUNT): 0
+0160.109 (0) Table wp_wcfm_marketplace_refund_request: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1130) in 0.01 seconds
+0160.126 (0) Table wp_wcfm_marketplace_refund_request: finishing file(s) (2, 0.5 KB)
+0160.143 (0) Table wp_wcfm_marketplace_refund_request_meta: Total expected rows (via COUNT): 0
+0160.149 (0) Table wp_wcfm_marketplace_refund_request_meta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=714) in 0.01 seconds
+0160.163 (0) Table wp_wcfm_marketplace_refund_request_meta: finishing file(s) (2, 0.4 KB)
+0160.184 (0) Table wp_wcfm_marketplace_reverse_withdrawal: Total expected rows (via COUNT): 0
+0160.191 (0) Table wp_wcfm_marketplace_reverse_withdrawal: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1231) in 0.02 seconds
+0160.207 (0) Table wp_wcfm_marketplace_reverse_withdrawal: finishing file(s) (2, 0.5 KB)
+0160.225 (0) Table wp_wcfm_marketplace_reverse_withdrawal_meta: Total expected rows (via COUNT): 0
+0160.231 (0) Table wp_wcfm_marketplace_reverse_withdrawal_meta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=748) in 0.01 seconds
+0160.244 (0) Table wp_wcfm_marketplace_reverse_withdrawal_meta: finishing file(s) (2, 0.4 KB)
+0160.262 (0) Table wp_wcfm_marketplace_review_rating_meta: Total expected rows (via COUNT): 0
+0160.265 (0) Table wp_wcfm_marketplace_review_rating_meta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=771) in 0.01 seconds
+0160.281 (0) Table wp_wcfm_marketplace_review_rating_meta: finishing file(s) (2, 0.4 KB)
+0160.302 (0) Table wp_wcfm_marketplace_reviews: Total expected rows (via COUNT): 0
+0160.308 (0) Table wp_wcfm_marketplace_reviews: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1004) in 0.02 seconds
+0160.326 (0) Table wp_wcfm_marketplace_reviews: finishing file(s) (2, 0.4 KB)
+0160.348 (0) Table wp_wcfm_marketplace_reviews_response: Total expected rows (via COUNT): 0
+0160.352 (0) Table wp_wcfm_marketplace_reviews_response: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=956) in 0.01 seconds
+0160.370 (0) Table wp_wcfm_marketplace_reviews_response: finishing file(s) (2, 0.4 KB)
+0160.387 (0) Table wp_wcfm_marketplace_reviews_response_meta: Total expected rows (via COUNT): 0
+0160.394 (0) Table wp_wcfm_marketplace_reviews_response_meta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=735) in 0.01 seconds
+0160.407 (0) Table wp_wcfm_marketplace_reviews_response_meta: finishing file(s) (2, 0.4 KB)
+0160.425 (0) Table wp_wcfm_marketplace_shipping_zone_locations: Total expected rows (via COUNT): 0
+0160.432 (0) Table wp_wcfm_marketplace_shipping_zone_locations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=801) in 0.01 seconds
+0160.446 (0) Table wp_wcfm_marketplace_shipping_zone_locations: finishing file(s) (2, 0.4 KB)
+0160.471 (0) Table wp_wcfm_marketplace_shipping_zone_methods: Total expected rows (via COUNT): 0
+0160.475 (0) Table wp_wcfm_marketplace_shipping_zone_methods: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=837) in 0.02 seconds
+0160.490 (0) Table wp_wcfm_marketplace_shipping_zone_methods: finishing file(s) (2, 0.4 KB)
+0160.509 (0) Table wp_wcfm_marketplace_store_taxonomies: Total expected rows (via COUNT): 2
+0160.512 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0160.519 (0) Table wp_wcfm_marketplace_store_taxonomies: Rows added in this batch (next record: 4): 2 (uncompressed bytes in this segment=947) in 0.02 seconds
+0160.531 (0) Table wp_wcfm_marketplace_store_taxonomies: finishing file(s) (2, 0.4 KB)
+0160.550 (0) Table wp_wcfm_marketplace_vendor_ledger: Total expected rows (via COUNT): 0
+0160.557 (0) Table wp_wcfm_marketplace_vendor_ledger: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1057) in 0.01 seconds
+0160.570 (0) Table wp_wcfm_marketplace_vendor_ledger: finishing file(s) (2, 0.4 KB)
+0160.590 (0) Table wp_wcfm_marketplace_withdraw_request: Total expected rows (via COUNT): 0
+0160.593 (0) Table wp_wcfm_marketplace_withdraw_request: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1368) in 0.01 seconds
+0160.609 (0) Table wp_wcfm_marketplace_withdraw_request: finishing file(s) (2, 0.5 KB)
+0160.627 (0) Table wp_wcfm_marketplace_withdraw_request_meta: Total expected rows (via COUNT): 0
+0160.633 (0) Table wp_wcfm_marketplace_withdraw_request_meta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=728) in 0.01 seconds
+0160.647 (0) Table wp_wcfm_marketplace_withdraw_request_meta: finishing file(s) (2, 0.4 KB)
+0160.664 (0) Table wp_wcfm_membership_subscription: Total expected rows (via COUNT): 0
+0160.671 (0) Table wp_wcfm_membership_subscription: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1388) in 0.01 seconds
+0160.686 (0) Table wp_wcfm_membership_subscription: finishing file(s) (2, 0.5 KB)
+0160.711 (0) Table wp_wcfm_messages: Total expected rows (via COUNT): 3
+0160.714 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0160.722 (0) Table wp_wcfm_messages: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=2113) in 0.03 seconds
+0160.740 (0) Table wp_wcfm_messages: finishing file(s) (2, 0.8 KB)
+0160.760 (0) Table wp_wcfm_messages_modifier: Total expected rows (via COUNT): 1
+0160.763 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0160.768 (0) Table wp_wcfm_messages_modifier: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=950) in 0.02 seconds
+0160.783 (0) Table wp_wcfm_messages_modifier: finishing file(s) (2, 0.4 KB)
+0160.805 (0) Table wp_wcfm_messages_stat: Total expected rows (via COUNT): 0
+0160.812 (0) Table wp_wcfm_messages_stat: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=801) in 0.02 seconds
+0160.830 (0) Table wp_wcfm_messages_stat: finishing file(s) (2, 0.4 KB)
+0160.859 (0) Table wp_wcfm_support: Total expected rows (via COUNT): 0
+0160.863 (0) Table wp_wcfm_support: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1128) in 0.02 seconds
+0160.882 (0) Table wp_wcfm_support: finishing file(s) (2, 0.4 KB)
+0160.906 (0) Table wp_wcfm_support_meta: Total expected rows (via COUNT): 0
+0160.915 (0) Table wp_wcfm_support_meta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=672) in 0.02 seconds
+0160.932 (0) Table wp_wcfm_support_meta: finishing file(s) (2, 0.4 KB)
+0160.954 (0) Table wp_wcfm_support_response: Total expected rows (via COUNT): 0
+0160.960 (0) Table wp_wcfm_support_response: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=885) in 0.02 seconds
+0160.977 (0) Table wp_wcfm_support_response: finishing file(s) (2, 0.4 KB)
+0160.997 (0) Table wp_wcfm_support_response_meta: Total expected rows (via COUNT): 0
+0161.003 (0) Table wp_wcfm_support_response_meta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=672) in 0.02 seconds
+0161.019 (0) Table wp_wcfm_support_response_meta: finishing file(s) (2, 0.4 KB)
+0161.034 (0) Table wp_wfauditevents: Total expected rows (via COUNT): 0
+0161.040 (0) Table wp_wfauditevents: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=700) in 0.01 seconds
+0161.053 (0) Table wp_wfauditevents: finishing file(s) (2, 0.4 KB)
+0161.066 (0) Table wp_wfblockediplog: Total expected rows (approximate): 0
+0161.070 (0) Table wp_wfblockediplog: Rows added in this batch (next record: 1000): 1 (uncompressed bytes in this segment=723) in 0.01 seconds
+0161.083 (0) Table wp_wfblockediplog: finishing file(s) (2, 0.4 KB)
+0161.100 (0) Table wp_wfblocks7: Total expected rows (via COUNT): 0
+0161.104 (0) Table wp_wfblocks7: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=790) in 0.01 seconds
+0161.119 (0) Table wp_wfblocks7: finishing file(s) (2, 0.4 KB)
+0161.134 (0) Table wp_wfconfig: Total expected rows (approximate): 271
+0161.233 (0) Table wp_wfconfig: Rows added in this batch (next record: 1000): 278 (uncompressed bytes in this segment=879591) in 0.10 seconds
+0161.249 (0) Table wp_wfconfig: finishing file(s) (2, 447.4 KB)
+0161.262 (0) Table wp_wfcrawlers: Total expected rows (approximate): 0
+0161.267 (0) Table wp_wfcrawlers: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=551) in 0.01 seconds
+0161.282 (0) Table wp_wfcrawlers: finishing file(s) (2, 0.3 KB)
+0161.296 (0) Table wp_wffilechanges: Total expected rows (approximate): 0
+0161.300 (0) Table wp_wffilechanges: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=455) in 0.01 seconds
+0161.315 (0) Table wp_wffilechanges: finishing file(s) (2, 0.3 KB)
+0161.328 (0) Table wp_wffilemods: Total expected rows (approximate): 11195
+0161.969 (0) Table wp_wffilemods: Rows added in this batch (next record: 20000): 12131 (uncompressed bytes in this segment=5794590) in 0.65 seconds
+0161.986 (0) Table wp_wffilemods: finishing file(s) (2, 1413.4 KB)
+0162.007 (0) Table wp_wfhits: Total expected rows (via COUNT): 44
+0162.010 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0162.021 (0) Table wp_wfhits: Rows added in this batch (next record: 44): 44 (uncompressed bytes in this segment=18094) in 0.02 seconds
+0162.036 (0) Table wp_wfhits: finishing file(s) (2, 2.2 KB)
+0162.056 (0) Table wp_wfhoover: Total expected rows (via COUNT): 0
+0162.063 (0) Table wp_wfhoover: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=475) in 0.01 seconds
+0162.077 (0) Table wp_wfhoover: finishing file(s) (2, 0.3 KB)
+0162.093 (0) Table wp_wfissues: Total expected rows (via COUNT): 0
+0162.097 (0) Table wp_wfissues: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=809) in 0.01 seconds
+0162.112 (0) Table wp_wfissues: finishing file(s) (2, 0.4 KB)
+0162.127 (0) Table wp_wfknownfilelist: Total expected rows (approximate): 20484
+0162.412 (0) Table wp_wfknownfilelist: Rows added in this batch (next record: 22359): 22359 (uncompressed bytes in this segment=6418772) in 0.29 seconds
+0162.438 (0) Table wp_wfknownfilelist: finishing file(s) (2, 343.9 KB)
+0162.452 (0) Table wp_wflivetraffichuman: Total expected rows (approximate): 0
+0162.455 (0) Table wp_wflivetraffichuman: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=647) in 0.01 seconds
+0162.469 (0) Table wp_wflivetraffichuman: finishing file(s) (2, 0.3 KB)
+0162.482 (0) Table wp_wflocs: Total expected rows (approximate): 1
+0162.487 (0) Table wp_wflocs: Rows added in this batch (next record: 1000): 1 (uncompressed bytes in this segment=805) in 0.01 seconds
+0162.503 (0) Table wp_wflocs: finishing file(s) (2, 0.4 KB)
+0162.517 (0) Table wp_wflogins: Total expected rows (via COUNT): 34
+0162.521 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0162.528 (0) Table wp_wflogins: Rows added in this batch (next record: 34): 34 (uncompressed bytes in this segment=7932) in 0.02 seconds
+0162.544 (0) Table wp_wflogins: finishing file(s) (2, 1.1 KB)
+0162.562 (0) Table wp_wfls_2fa_secrets: Total expected rows (via COUNT): 0
+0162.569 (0) Table wp_wfls_2fa_secrets: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=668) in 0.01 seconds
+0162.584 (0) Table wp_wfls_2fa_secrets: finishing file(s) (2, 0.4 KB)
+0162.600 (0) Table wp_wfls_role_counts: Total expected rows (approximate): 0
+0162.604 (0) Table wp_wfls_role_counts: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=547) in 0.01 seconds
+0162.620 (0) Table wp_wfls_role_counts: finishing file(s) (2, 0.3 KB)
+0162.635 (0) Table wp_wfls_settings: Total expected rows (approximate): 26
+0162.640 (0) Table wp_wfls_settings: Rows added in this batch (next record: 1000): 30 (uncompressed bytes in this segment=2058) in 0.01 seconds
+0162.656 (0) Table wp_wfls_settings: finishing file(s) (2, 0.9 KB)
+0162.667 (0) Table wp_wfnotifications: Total expected rows (approximate): 4
+0162.670 (0) Table wp_wfnotifications: Rows added in this batch (next record: 1000): 4 (uncompressed bytes in this segment=1348) in 0.01 seconds
+0162.684 (0) Table wp_wfnotifications: finishing file(s) (2, 0.6 KB)
+0162.704 (0) Table wp_wfpendingissues: Total expected rows (via COUNT): 0
+0162.707 (0) Table wp_wfpendingissues: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=834) in 0.01 seconds
+0162.720 (0) Table wp_wfpendingissues: finishing file(s) (2, 0.4 KB)
+0162.737 (0) Table wp_wfreversecache: Total expected rows (approximate): 1
+0162.742 (0) Table wp_wfreversecache: Rows added in this batch (next record: 1000): 1 (uncompressed bytes in this segment=616) in 0.01 seconds
+0162.757 (0) Table wp_wfreversecache: finishing file(s) (2, 0.4 KB)
+0162.773 (0) Table wp_wfsecurityevents: Total expected rows (via COUNT): 0
+0162.776 (0) Table wp_wfsecurityevents: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=677) in 0.01 seconds
+0162.789 (0) Table wp_wfsecurityevents: finishing file(s) (2, 0.4 KB)
+0162.806 (0) Table wp_wfsnipcache: Total expected rows (via COUNT): 0
+0162.810 (0) Table wp_wfsnipcache: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=692) in 0.01 seconds
+0162.819 (0) Table wp_wfsnipcache: finishing file(s) (2, 0.4 KB)
+0162.831 (0) Table wp_wfstatus: Total expected rows (via COUNT): 575
+0162.838 (0) Table wp_wfstatus: Rows added in this batch (next record: 575): 575 (uncompressed bytes in this segment=53688) in 0.01 seconds
+0162.849 (0) Table wp_wfstatus: finishing file(s) (2, 10.6 KB)
+0162.859 (0) Table wp_wftrafficrates: Total expected rows (approximate): 0
+0162.864 (0) Table wp_wftrafficrates: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=561) in 0.01 seconds
+0162.883 (0) Table wp_wftrafficrates: finishing file(s) (2, 0.3 KB)
+0162.902 (0) Table wp_wfwaffailures: Total expected rows (via COUNT): 0
+0162.907 (0) Table wp_wfwaffailures: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=522) in 0.01 seconds
+0162.925 (0) Table wp_wfwaffailures: finishing file(s) (2, 0.3 KB)
+0162.952 (0) Table wp_woocommerce_api_keys: Total expected rows (via COUNT): 0
+0162.956 (0) Table wp_woocommerce_api_keys: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1038) in 0.02 seconds
+0162.974 (0) Table wp_woocommerce_api_keys: finishing file(s) (2, 0.5 KB)
+0162.994 (0) Table wp_woocommerce_attribute_taxonomies: Total expected rows (via COUNT): 0
+0162.998 (0) Table wp_woocommerce_attribute_taxonomies: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=954) in 0.01 seconds
+0163.012 (0) Table wp_woocommerce_attribute_taxonomies: finishing file(s) (2, 0.4 KB)
+0163.029 (0) Table wp_woocommerce_downloadable_product_permissions: Total expected rows (via COUNT): 0
+0163.032 (0) Table wp_woocommerce_downloadable_product_permissions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1518) in 0.01 seconds
+0163.046 (0) Table wp_woocommerce_downloadable_product_permissions: finishing file(s) (2, 0.5 KB)
+0163.067 (0) Table wp_woocommerce_log: Total expected rows (via COUNT): 0
+0163.071 (0) Table wp_woocommerce_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=715) in 0.01 seconds
+0163.087 (0) Table wp_woocommerce_log: finishing file(s) (2, 0.4 KB)
+0163.104 (0) Table wp_woocommerce_order_items: Total expected rows (via COUNT): 10
+0163.107 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0163.114 (0) Table wp_woocommerce_order_items: Rows added in this batch (next record: 504): 10 (uncompressed bytes in this segment=1228) in 0.02 seconds
+0163.127 (0) Table wp_woocommerce_order_items: finishing file(s) (2, 0.5 KB)
+0163.146 (0) Table wp_woocommerce_payment_tokens: Total expected rows (via COUNT): 0
+0163.153 (0) Table wp_woocommerce_payment_tokens: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=833) in 0.01 seconds
+0163.167 (0) Table wp_woocommerce_payment_tokens: finishing file(s) (2, 0.4 KB)
+0163.188 (0) Table wp_woocommerce_sessions: Total expected rows (via COUNT): 12
+0163.192 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0163.199 (0) Table wp_woocommerce_sessions: Rows added in this batch (next record: 1187): 12 (uncompressed bytes in this segment=15005) in 0.02 seconds
+0163.218 (0) Table wp_woocommerce_sessions: finishing file(s) (2, 1.5 KB)
+0163.235 (0) Table wp_woocommerce_shipping_zone_locations: Total expected rows (via COUNT): 1
+0163.239 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0163.243 (0) Table wp_woocommerce_shipping_zone_locations: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=962) in 0.01 seconds
+0163.260 (0) Table wp_woocommerce_shipping_zone_locations: finishing file(s) (2, 0.4 KB)
+0163.279 (0) Table wp_woocommerce_shipping_zone_methods: Total expected rows (via COUNT): 1
+0163.282 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0163.286 (0) Table wp_woocommerce_shipping_zone_methods: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=866) in 0.01 seconds
+0163.301 (0) Table wp_woocommerce_shipping_zone_methods: finishing file(s) (2, 0.4 KB)
+0163.317 (0) Table wp_woocommerce_shipping_zones: Total expected rows (via COUNT): 1
+0163.320 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0163.326 (0) Table wp_woocommerce_shipping_zones: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=711) in 0.01 seconds
+0163.339 (0) Table wp_woocommerce_shipping_zones: finishing file(s) (2, 0.4 KB)
+0163.357 (0) Table wp_woocommerce_tax_rate_locations: Total expected rows (via COUNT): 2
+0163.359 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0163.363 (0) Table wp_woocommerce_tax_rate_locations: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=973) in 0.01 seconds
+0163.377 (0) Table wp_woocommerce_tax_rate_locations: finishing file(s) (2, 0.5 KB)
+0163.395 (0) Table wp_woocommerce_tax_rates: Total expected rows (via COUNT): 1
+0163.397 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0163.401 (0) Table wp_woocommerce_tax_rates: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1398) in 0.01 seconds
+0163.415 (0) Table wp_woocommerce_tax_rates: finishing file(s) (2, 0.5 KB)
+0163.431 (0) Table wp_wpmailsmtp_debug_events: Total expected rows (via COUNT): 0
+0163.437 (0) Table wp_wpmailsmtp_debug_events: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=700) in 0.01 seconds
+0163.449 (0) Table wp_wpmailsmtp_debug_events: finishing file(s) (2, 0.4 KB)
+0163.464 (0) Table wp_wpmailsmtp_tasks_meta: Total expected rows (via COUNT): 1
+0163.466 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0163.471 (0) Table wp_wpmailsmtp_tasks_meta: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=762) in 0.01 seconds
+0163.485 (0) Table wp_wpmailsmtp_tasks_meta: finishing file(s) (2, 0.4 KB)
+0163.487 (0) PHP event: code E_WARNING: filemtime(): stat failed for C:\Users\hanpe\Desktop\HUMBER\2025Summer\Capstone\Capstone-PetcakeDelight\LocalWP\app\public/wp-content/updraft/backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db.gz (line 1923, C:\Users\hanpe\Desktop\HUMBER\2025Summer\Capstone\Capstone-PetcakeDelight\LocalWP\app\public\wp-content\plugins\updraftplus\backup.php)
+0163.492 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_options.table.tmpr6126.gz (1/119/fopen): adding to final database dump
+0163.506 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_options.table.gz (2/119/fopen): adding to final database dump
+0163.509 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_users.table.tmpr3.gz (3/119/fopen): adding to final database dump
+0163.513 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_users.table.gz (4/119/fopen): adding to final database dump
+0163.516 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_usermeta.table.tmpr111.gz (5/119/fopen): adding to final database dump
+0163.520 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_usermeta.table.gz (6/119/fopen): adding to final database dump
+0163.522 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_actionscheduler_actions.table.tmpr171.gz (7/119/fopen): adding to final database dump
+0163.526 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_actionscheduler_actions.table.gz (8/119/fopen): adding to final database dump
+0163.529 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_actionscheduler_claims.table.tmpr0.gz (9/119/fopen): adding to final database dump
+0163.533 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_actionscheduler_claims.table.gz (10/119/fopen): adding to final database dump
+0163.536 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_actionscheduler_groups.table.tmpr9.gz (11/119/fopen): adding to final database dump
+0163.540 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_actionscheduler_groups.table.gz (12/119/fopen): adding to final database dump
+0163.544 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_actionscheduler_logs.table.tmpr484.gz (13/119/fopen): adding to final database dump
+0163.548 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_actionscheduler_logs.table.gz (14/119/fopen): adding to final database dump
+0163.551 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_commentmeta.table.tmpr2.gz (15/119/fopen): adding to final database dump
+0163.555 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_commentmeta.table.gz (16/119/fopen): adding to final database dump
+0163.558 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_comments.table.tmpr19.gz (17/119/fopen): adding to final database dump
+0163.561 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_comments.table.gz (18/119/fopen): adding to final database dump
+0163.565 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_links.table.tmpr0.gz (19/119/fopen): adding to final database dump
+0163.568 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_links.table.gz (20/119/fopen): adding to final database dump
+0163.572 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_postmeta.table.tmpr1043.gz (21/119/fopen): adding to final database dump
+0163.576 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_postmeta.table.gz (22/119/fopen): adding to final database dump
+0163.580 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_posts.table.tmpr291.gz (23/119/fopen): adding to final database dump
+0163.585 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_posts.table.gz (24/119/fopen): adding to final database dump
+0163.589 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_term_relationships.table.tmpr100001.gz (25/119/fopen): adding to final database dump
+0163.592 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_term_relationships.table.gz (26/119/fopen): adding to final database dump
+0163.595 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_term_taxonomy.table.tmpr58.gz (27/119/fopen): adding to final database dump
+0163.599 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_term_taxonomy.table.gz (28/119/fopen): adding to final database dump
+0163.602 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_termmeta.table.tmpr22.gz (29/119/fopen): adding to final database dump
+0163.605 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_termmeta.table.gz (30/119/fopen): adding to final database dump
+0163.608 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_terms.table.tmpr58.gz (31/119/fopen): adding to final database dump
+0163.611 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_terms.table.gz (32/119/fopen): adding to final database dump
+0163.614 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wc_category_lookup.table.tmpr1001.gz (33/119/fopen): adding to final database dump
+0163.618 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wc_category_lookup.table.gz (34/119/fopen): adding to final database dump
+0163.620 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wc_product_meta_lookup.table.tmpr291.gz (35/119/fopen): adding to final database dump
+0163.623 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wc_product_meta_lookup.table.gz (36/119/fopen): adding to final database dump
+0163.626 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wc_reserved_stock.table.tmpr1.gz (37/119/fopen): adding to final database dump
+0163.629 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wc_reserved_stock.table.gz (38/119/fopen): adding to final database dump
+0163.632 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wc_tax_rate_classes.table.tmpr3.gz (39/119/fopen): adding to final database dump
+0163.636 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wc_tax_rate_classes.table.gz (40/119/fopen): adding to final database dump
+0163.638 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_woocommerce_order_itemmeta.table.tmpr4892.gz (41/119/fopen): adding to final database dump
+0163.642 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_woocommerce_order_itemmeta.table.gz (42/119/fopen): adding to final database dump
+0163.645 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_woocommerce_payment_tokenmeta.table.tmpr0.gz (43/119/fopen): adding to final database dump
+0163.649 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_woocommerce_payment_tokenmeta.table.gz (44/119/fopen): adding to final database dump
+0163.652 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_cmplz_cookiebanners.table.tmpr2.gz (45/119/fopen): adding to final database dump
+0163.655 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_cmplz_cookiebanners.table.gz (46/119/fopen): adding to final database dump
+0163.658 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_cmplz_cookies.table.tmpr27.gz (47/119/fopen): adding to final database dump
+0163.661 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_cmplz_cookies.table.gz (48/119/fopen): adding to final database dump
+0163.664 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_cmplz_dnsmpd.table.tmpr0.gz (49/119/fopen): adding to final database dump
+0163.667 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_cmplz_dnsmpd.table.gz (50/119/fopen): adding to final database dump
+0163.670 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_cmplz_services.table.tmpr7.gz (51/119/fopen): adding to final database dump
+0163.673 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_cmplz_services.table.gz (52/119/fopen): adding to final database dump
+0163.676 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_e_events.table.tmpr2.gz (53/119/fopen): adding to final database dump
+0163.679 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_e_events.table.gz (54/119/fopen): adding to final database dump
+0163.682 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_nm_personalized.table.tmpr0.gz (55/119/fopen): adding to final database dump
+0163.685 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_nm_personalized.table.gz (56/119/fopen): adding to final database dump
+0163.688 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wc_admin_note_actions.table.tmpr4555.gz (57/119/fopen): adding to final database dump
+0163.691 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wc_admin_note_actions.table.gz (58/119/fopen): adding to final database dump
+0163.694 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wc_admin_notes.table.tmpr66.gz (59/119/fopen): adding to final database dump
+0163.698 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wc_admin_notes.table.gz (60/119/fopen): adding to final database dump
+0163.701 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wc_customer_lookup.table.tmpr3.gz (61/119/fopen): adding to final database dump
+0163.704 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wc_customer_lookup.table.gz (62/119/fopen): adding to final database dump
+0163.707 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wc_download_log.table.tmpr0.gz (63/119/fopen): adding to final database dump
+0163.710 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wc_download_log.table.gz (64/119/fopen): adding to final database dump
+0163.713 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wc_order_addresses.table.tmpr19.gz (65/119/fopen): adding to final database dump
+0163.716 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wc_order_addresses.table.gz (66/119/fopen): adding to final database dump
+0163.718 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wc_order_coupon_lookup.table.tmpr1.gz (67/119/fopen): adding to final database dump
+0163.721 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wc_order_coupon_lookup.table.gz (68/119/fopen): adding to final database dump
+0163.724 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wc_order_operational_data.table.tmpr59.gz (69/119/fopen): adding to final database dump
+0163.728 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wc_order_operational_data.table.gz (70/119/fopen): adding to final database dump
+0163.731 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wc_order_product_lookup.table.tmpr502.gz (71/119/fopen): adding to final database dump
+0163.734 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wc_order_product_lookup.table.gz (72/119/fopen): adding to final database dump
+0163.736 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wc_order_stats.table.tmpr282.gz (73/119/fopen): adding to final database dump
+0163.740 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wc_order_stats.table.gz (74/119/fopen): adding to final database dump
+0163.742 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wc_order_tax_lookup.table.tmpr1.gz (75/119/fopen): adding to final database dump
+0163.745 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wc_order_tax_lookup.table.gz (76/119/fopen): adding to final database dump
+0163.748 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wc_orders.table.tmpr282.gz (77/119/fopen): adding to final database dump
+0163.751 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wc_orders.table.gz (78/119/fopen): adding to final database dump
+0163.754 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wc_orders_meta.table.tmpr106.gz (79/119/fopen): adding to final database dump
+0163.757 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wc_orders_meta.table.gz (80/119/fopen): adding to final database dump
+0163.760 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wc_product_attributes_lookup.table.tmpr1.gz (81/119/fopen): adding to final database dump
+0163.763 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wc_product_attributes_lookup.table.gz (82/119/fopen): adding to final database dump
+0163.765 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wc_product_download_directories.table.tmpr3.gz (83/119/fopen): adding to final database dump
+0163.768 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wc_product_download_directories.table.gz (84/119/fopen): adding to final database dump
+0163.771 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wc_rate_limits.table.tmpr0.gz (85/119/fopen): adding to final database dump
+0163.774 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wc_rate_limits.table.gz (86/119/fopen): adding to final database dump
+0163.777 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wc_webhooks.table.tmpr0.gz (87/119/fopen): adding to final database dump
+0163.780 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wc_webhooks.table.gz (88/119/fopen): adding to final database dump
+0163.783 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_daily_analysis.table.tmpr30.gz (89/119/fopen): adding to final database dump
+0163.787 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_daily_analysis.table.gz (90/119/fopen): adding to final database dump
+0163.790 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_detailed_analysis.table.tmpr44.gz (91/119/fopen): adding to final database dump
+0163.793 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_detailed_analysis.table.gz (92/119/fopen): adding to final database dump
+0163.796 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_enquiries.table.tmpr2.gz (93/119/fopen): adding to final database dump
+0163.798 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_enquiries.table.gz (94/119/fopen): adding to final database dump
+0163.801 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_enquiries_meta.table.tmpr0.gz (95/119/fopen): adding to final database dump
+0163.804 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_enquiries_meta.table.gz (96/119/fopen): adding to final database dump
+0163.807 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_enquiries_response.table.tmpr2.gz (97/119/fopen): adding to final database dump
+0163.809 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_enquiries_response.table.gz (98/119/fopen): adding to final database dump
+0163.812 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_enquiries_response_meta.table.tmpr0.gz (99/119/fopen): adding to final database dump
+0163.818 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_enquiries_response_meta.table.gz (100/119/fopen): adding to final database dump
+0163.821 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_fbc_chat_rows.table.tmpr1.gz (101/119/fopen): adding to final database dump
+0163.824 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_fbc_chat_rows.table.gz (102/119/fopen): adding to final database dump
+0163.826 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_fbc_chat_sessions.table.tmpr1.gz (103/119/fopen): adding to final database dump
+0163.830 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_fbc_chat_sessions.table.gz (104/119/fopen): adding to final database dump
+0163.832 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_fbc_chat_visitors.table.tmpr1.gz (105/119/fopen): adding to final database dump
+0163.836 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_fbc_chat_visitors.table.gz (106/119/fopen): adding to final database dump
+0163.838 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_fbc_offline_messages.table.tmpr0.gz (107/119/fopen): adding to final database dump
+0163.840 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_fbc_offline_messages.table.gz (108/119/fopen): adding to final database dump
+0163.842 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_following_followers.table.tmpr0.gz (109/119/fopen): adding to final database dump
+0163.844 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_following_followers.table.gz (110/119/fopen): adding to final database dump
+0163.846 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_marketplace_orders.table.tmpr0.gz (111/119/fopen): adding to final database dump
+0163.848 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_marketplace_orders.table.gz (112/119/fopen): adding to final database dump
+0163.850 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_marketplace_orders_meta.table.tmpr0.gz (113/119/fopen): adding to final database dump
+0163.853 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_marketplace_orders_meta.table.gz (114/119/fopen): adding to final database dump
+0163.855 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_marketplace_product_multivendor.table.tmpr0.gz (115/119/fopen): adding to final database dump
+0163.857 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_marketplace_product_multivendor.table.gz (116/119/fopen): adding to final database dump
+0163.859 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_marketplace_refund_request.table.tmpr0.gz (117/119/fopen): adding to final database dump
+0163.861 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_marketplace_refund_request.table.gz (118/119/fopen): adding to final database dump
+0163.863 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_marketplace_refund_request_meta.table.tmpr0.gz (119/119/fopen): adding to final database dump
+0163.865 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_marketplace_refund_request_meta.table.gz (120/119/fopen): adding to final database dump
+0163.867 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_marketplace_reverse_withdrawal.table.tmpr0.gz (121/119/fopen): adding to final database dump
+0163.870 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_marketplace_reverse_withdrawal.table.gz (122/119/fopen): adding to final database dump
+0163.871 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_marketplace_reverse_withdrawal_meta.table.tmpr0.gz (123/119/fopen): adding to final database dump
+0163.873 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_marketplace_reverse_withdrawal_meta.table.gz (124/119/fopen): adding to final database dump
+0163.875 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_marketplace_review_rating_meta.table.tmpr0.gz (125/119/fopen): adding to final database dump
+0163.877 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_marketplace_review_rating_meta.table.gz (126/119/fopen): adding to final database dump
+0163.879 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_marketplace_reviews.table.tmpr0.gz (127/119/fopen): adding to final database dump
+0163.883 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_marketplace_reviews.table.gz (128/119/fopen): adding to final database dump
+0163.886 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_marketplace_reviews_response.table.tmpr0.gz (129/119/fopen): adding to final database dump
+0163.890 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_marketplace_reviews_response.table.gz (130/119/fopen): adding to final database dump
+0163.892 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_marketplace_reviews_response_meta.table.tmpr0.gz (131/119/fopen): adding to final database dump
+0163.896 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_marketplace_reviews_response_meta.table.gz (132/119/fopen): adding to final database dump
+0163.900 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_marketplace_shipping_zone_locations.table.tmpr0.gz (133/119/fopen): adding to final database dump
+0163.904 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_marketplace_shipping_zone_locations.table.gz (134/119/fopen): adding to final database dump
+0163.907 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_marketplace_shipping_zone_methods.table.tmpr0.gz (135/119/fopen): adding to final database dump
+0163.911 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_marketplace_shipping_zone_methods.table.gz (136/119/fopen): adding to final database dump
+0163.916 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_marketplace_store_taxonomies.table.tmpr5.gz (137/119/fopen): adding to final database dump
+0163.920 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_marketplace_store_taxonomies.table.gz (138/119/fopen): adding to final database dump
+0163.923 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_marketplace_vendor_ledger.table.tmpr0.gz (139/119/fopen): adding to final database dump
+0163.927 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_marketplace_vendor_ledger.table.gz (140/119/fopen): adding to final database dump
+0163.932 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_marketplace_withdraw_request.table.tmpr0.gz (141/119/fopen): adding to final database dump
+0163.936 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_marketplace_withdraw_request.table.gz (142/119/fopen): adding to final database dump
+0163.939 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_marketplace_withdraw_request_meta.table.tmpr0.gz (143/119/fopen): adding to final database dump
+0163.942 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_marketplace_withdraw_request_meta.table.gz (144/119/fopen): adding to final database dump
+0163.947 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_membership_subscription.table.tmpr0.gz (145/119/fopen): adding to final database dump
+0163.951 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_membership_subscription.table.gz (146/119/fopen): adding to final database dump
+0163.954 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_messages.table.tmpr4.gz (147/119/fopen): adding to final database dump
+0163.958 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_messages.table.gz (148/119/fopen): adding to final database dump
+0163.961 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_messages_modifier.table.tmpr2.gz (149/119/fopen): adding to final database dump
+0163.965 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_messages_modifier.table.gz (150/119/fopen): adding to final database dump
+0163.968 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_messages_stat.table.tmpr0.gz (151/119/fopen): adding to final database dump
+0163.972 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_messages_stat.table.gz (152/119/fopen): adding to final database dump
+0163.975 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_support.table.tmpr0.gz (153/119/fopen): adding to final database dump
+0163.979 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_support.table.gz (154/119/fopen): adding to final database dump
+0163.981 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_support_meta.table.tmpr0.gz (155/119/fopen): adding to final database dump
+0163.985 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_support_meta.table.gz (156/119/fopen): adding to final database dump
+0163.987 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_support_response.table.tmpr0.gz (157/119/fopen): adding to final database dump
+0163.991 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_support_response.table.gz (158/119/fopen): adding to final database dump
+0163.994 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_support_response_meta.table.tmpr0.gz (159/119/fopen): adding to final database dump
+0163.997 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wcfm_support_response_meta.table.gz (160/119/fopen): adding to final database dump
+0164.003 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wfauditevents.table.tmpr0.gz (161/119/fopen): adding to final database dump
+0164.006 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wfauditevents.table.gz (162/119/fopen): adding to final database dump
+0164.009 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wfblockediplog.table.tmpr1001.gz (163/119/fopen): adding to final database dump
+0164.013 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wfblockediplog.table.gz (164/119/fopen): adding to final database dump
+0164.015 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wfblocks7.table.tmpr0.gz (165/119/fopen): adding to final database dump
+0164.019 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wfblocks7.table.gz (166/119/fopen): adding to final database dump
+0164.022 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wfconfig.table.tmpr1001.gz (167/119/fopen): adding to final database dump
+0164.041 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wfconfig.table.gz (168/119/fopen): adding to final database dump
+0164.043 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wfcrawlers.table.tmpr1.gz (169/119/fopen): adding to final database dump
+0164.046 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wfcrawlers.table.gz (170/119/fopen): adding to final database dump
+0164.049 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wffilechanges.table.tmpr1.gz (171/119/fopen): adding to final database dump
+0164.053 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wffilechanges.table.gz (172/119/fopen): adding to final database dump
+0164.056 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wffilemods.table.tmpr20001.gz (173/119/fopen): adding to final database dump
+0164.109 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wffilemods.table.gz (174/119/fopen): adding to final database dump
+0164.111 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wfhits.table.tmpr45.gz (175/119/fopen): adding to final database dump
+0164.115 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wfhits.table.gz (176/119/fopen): adding to final database dump
+0164.117 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wfhoover.table.tmpr0.gz (177/119/fopen): adding to final database dump
+0164.120 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wfhoover.table.gz (178/119/fopen): adding to final database dump
+0164.123 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wfissues.table.tmpr0.gz (179/119/fopen): adding to final database dump
+0164.126 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wfissues.table.gz (180/119/fopen): adding to final database dump
+0164.130 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wfknownfilelist.table.tmpr22360.gz (181/119/fopen): adding to final database dump
+0164.144 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wfknownfilelist.table.gz (182/119/fopen): adding to final database dump
+0164.146 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wflivetraffichuman.table.tmpr1.gz (183/119/fopen): adding to final database dump
+0164.149 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wflivetraffichuman.table.gz (184/119/fopen): adding to final database dump
+0164.152 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wflocs.table.tmpr1001.gz (185/119/fopen): adding to final database dump
+0164.156 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wflocs.table.gz (186/119/fopen): adding to final database dump
+0164.159 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wflogins.table.tmpr35.gz (187/119/fopen): adding to final database dump
+0164.162 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wflogins.table.gz (188/119/fopen): adding to final database dump
+0164.166 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wfls_2fa_secrets.table.tmpr0.gz (189/119/fopen): adding to final database dump
+0164.169 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wfls_2fa_secrets.table.gz (190/119/fopen): adding to final database dump
+0164.174 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wfls_role_counts.table.tmpr1.gz (191/119/fopen): adding to final database dump
+0164.178 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wfls_role_counts.table.gz (192/119/fopen): adding to final database dump
+0164.181 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wfls_settings.table.tmpr1001.gz (193/119/fopen): adding to final database dump
+0164.185 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wfls_settings.table.gz (194/119/fopen): adding to final database dump
+0164.188 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wfnotifications.table.tmpr1001.gz (195/119/fopen): adding to final database dump
+0164.192 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wfnotifications.table.gz (196/119/fopen): adding to final database dump
+0164.196 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wfpendingissues.table.tmpr0.gz (197/119/fopen): adding to final database dump
+0164.199 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wfpendingissues.table.gz (198/119/fopen): adding to final database dump
+0164.203 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wfreversecache.table.tmpr1001.gz (199/119/fopen): adding to final database dump
+0164.211 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wfreversecache.table.gz (200/119/fopen): adding to final database dump
+0164.214 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wfsecurityevents.table.tmpr0.gz (201/119/fopen): adding to final database dump
+0164.218 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wfsecurityevents.table.gz (202/119/fopen): adding to final database dump
+0164.221 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wfsnipcache.table.tmpr0.gz (203/119/fopen): adding to final database dump
+0164.225 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wfsnipcache.table.gz (204/119/fopen): adding to final database dump
+0164.229 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wfstatus.table.tmpr576.gz (205/119/fopen): adding to final database dump
+0164.233 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wfstatus.table.gz (206/119/fopen): adding to final database dump
+0164.237 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wftrafficrates.table.tmpr1.gz (207/119/fopen): adding to final database dump
+0164.241 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wftrafficrates.table.gz (208/119/fopen): adding to final database dump
+0164.245 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wfwaffailures.table.tmpr0.gz (209/119/fopen): adding to final database dump
+0164.248 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wfwaffailures.table.gz (210/119/fopen): adding to final database dump
+0164.252 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_woocommerce_api_keys.table.tmpr0.gz (211/119/fopen): adding to final database dump
+0164.255 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_woocommerce_api_keys.table.gz (212/119/fopen): adding to final database dump
+0164.259 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_woocommerce_attribute_taxonomies.table.tmpr0.gz (213/119/fopen): adding to final database dump
+0164.263 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_woocommerce_attribute_taxonomies.table.gz (214/119/fopen): adding to final database dump
+0164.267 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_woocommerce_downloadable_product_permissions.table.tmpr0.gz (215/119/fopen): adding to final database dump
+0164.271 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_woocommerce_downloadable_product_permissions.table.gz (216/119/fopen): adding to final database dump
+0164.276 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_woocommerce_log.table.tmpr0.gz (217/119/fopen): adding to final database dump
+0164.279 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_woocommerce_log.table.gz (218/119/fopen): adding to final database dump
+0164.283 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_woocommerce_order_items.table.tmpr505.gz (219/119/fopen): adding to final database dump
+0164.287 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_woocommerce_order_items.table.gz (220/119/fopen): adding to final database dump
+0164.291 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_woocommerce_payment_tokens.table.tmpr0.gz (221/119/fopen): adding to final database dump
+0164.295 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_woocommerce_payment_tokens.table.gz (222/119/fopen): adding to final database dump
+0164.298 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_woocommerce_sessions.table.tmpr1188.gz (223/119/fopen): adding to final database dump
+0164.303 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_woocommerce_sessions.table.gz (224/119/fopen): adding to final database dump
+0164.306 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_woocommerce_shipping_zone_locations.table.tmpr2.gz (225/119/fopen): adding to final database dump
+0164.310 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_woocommerce_shipping_zone_locations.table.gz (226/119/fopen): adding to final database dump
+0164.313 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_woocommerce_shipping_zone_methods.table.tmpr2.gz (227/119/fopen): adding to final database dump
+0164.317 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_woocommerce_shipping_zone_methods.table.gz (228/119/fopen): adding to final database dump
+0164.320 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_woocommerce_shipping_zones.table.tmpr2.gz (229/119/fopen): adding to final database dump
+0164.323 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_woocommerce_shipping_zones.table.gz (230/119/fopen): adding to final database dump
+0164.327 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_woocommerce_tax_rate_locations.table.tmpr3.gz (231/119/fopen): adding to final database dump
+0164.330 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_woocommerce_tax_rate_locations.table.gz (232/119/fopen): adding to final database dump
+0164.333 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_woocommerce_tax_rates.table.tmpr2.gz (233/119/fopen): adding to final database dump
+0164.337 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_woocommerce_tax_rates.table.gz (234/119/fopen): adding to final database dump
+0164.340 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wpmailsmtp_debug_events.table.tmpr0.gz (235/119/fopen): adding to final database dump
+0164.343 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wpmailsmtp_debug_events.table.gz (236/119/fopen): adding to final database dump
+0164.346 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wpmailsmtp_tasks_meta.table.tmpr2.gz (237/119/fopen): adding to final database dump
+0164.350 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db-table-wp_wpmailsmtp_tasks_meta.table.gz (238/119/fopen): adding to final database dump
+0164.382 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db.gz: finished writing out complete database file (2574 KB)
+0164.493 (0) Total database tables backed up: 119 (backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db.gz, size: 2635911, sha1: 243bec9f4c672eef66b94e210148cc5f331f3bc6, sha256: c6f1763d6b2a92d3f5e9b3c13f42ff89fc0439a75069d28d5677cf510caf621c)
+0164.512 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-plugins.zip: plugins: This file has already been successfully processed
+0164.515 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-themes.zip: themes: This file has already been successfully processed
+0164.519 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-uploads.zip: uploads: This file has already been successfully processed
+0164.521 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-others.zip: others: This file has already been successfully processed
+0164.524 (0) backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db.gz: db: This file has not yet been successfully uploaded: will queue
+0164.527 (0) Saving backup history. Total backup size: 158.4 MB
+0164.535 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0164.546 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0164.549 (0) No remote despatch: user chose no remote backup service
+0164.552 (0) Recording as successfully uploaded: backup_2025-05-26-1400_PetCake_Delight_845d978d9fa6-db.gz
+0164.561 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0164.566 (0) Number of backup sets in history: 2; groups (db): 1
+0164.568 (0) Examining (for databases) backup set with group_id=0, nonce=845d978d9fa6, datestamp=1748282403 (May 26 2025 18:00:03)
+0164.572 (0) This backup set is the backup set just made, so will not be deleted.
+0164.572 (0) Examining (for databases) backup set with group_id=0, nonce=55a933b29d81, datestamp=1747848903 (May 21 2025 17:35:03)
+0164.572 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0164.575 (0) Number of backup sets in history: 2; groups (files): 1
+0164.578 (0) Examining (for files) backup set with nonce=845d978d9fa6, datestamp=1748282403 (May 26 2025 18:00:03)
+0164.578 (0) This backup set is the backup set just made, so will not be deleted.
+0164.582 (0) This backup set is the backup set just made, so will not be deleted.
+0164.582 (0) This backup set is the backup set just made, so will not be deleted.
+0164.582 (0) This backup set is the backup set just made, so will not be deleted.
+0164.582 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0164.585 (0) Examining (for files) backup set with nonce=55a933b29d81, datestamp=1747848903 (May 21 2025 17:35:03)
+0164.585 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0164.585 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0164.592 (0) Resume backup (845d978d9fa6, 0): finish run
+0164.601 (0) Decremented the semaphore (fd) by 1
+0164.607 (0) Semaphore (fd) unlocked
+0164.609 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0164.617 (0) No email will/can be sent - the user has not configured an email address.
+0164.619 (0) The backup succeeded and is now complete
